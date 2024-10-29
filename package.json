@@ -1,0 +1,17 @@
+{
+  "name": "001-discord-bot",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonade",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sapphire/framework": "^5.2.1",
+    "001-discord-bot": "file:",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
