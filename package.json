@@ -11,7 +11,10 @@
   "dependencies": {
     "@sapphire/framework": "^5.2.1",
     "001-discord-bot": "file:",
+    "axios": "^1.7.7",
     "discord.js": "^14.16.3",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "js-levenshtein": "^1.1.6",
+    "xml2js": "^0.6.2"
   }
 }
