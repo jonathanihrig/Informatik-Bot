@@ -1,3 +1,11 @@
+# No longer in use!
+
+This bot is no longer in use, as a new version will be developed in python.
+
+
+
+
+
 # Informatik-Bot
  This discord bot is automating different tasks on the / an unofficial server of the Faculty of Computer Science at the Chemnitz University of Technology.
  Please note that this is my first TypeScript project, in case you see any weird practices.
